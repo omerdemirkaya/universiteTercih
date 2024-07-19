@@ -1,0 +1,100 @@
+.choice-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(165, 220, 245, 0.5); /* Arka planı saydam yapmak için */
+}
+
+.choice-container {
+  max-width: 600px;
+  width: 90%;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.choice-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.choice-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.choice-container form label {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.choice-container form input[type="text"] {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.choice-container form button {
+  padding: 14px 24px; /* Büyük boyut */
+  background-color: #ffc107; /* Sarı renk */
+  color: #333;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: 'Poppins', sans-serif; /* Poppins fontu */
+  text-decoration: none; /* Alt çizgi kaldırma */
+  display: inline-block;
+  font-size: 18px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Şık gölge efekti */
+}
+
+.choice-container form button:hover {
+  background-color: #ffca2b; /* Hover rengi */
+}
+
+.ranking-display {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  padding: 20px;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  background-color: #e9f7fe;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navigate-button {
+  display: block;
+  margin-top: 10px; /* Üst boşluk */
+  margin-left: auto; /* Sağa yaslanma */
+  margin-right: auto; /* Sola yaslanma */
+  padding: 14px 24px; /* Büyük boyut */
+  background-color: #ffc107; /* Sarı renk */
+  color: #333;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: 'Poppins', sans-serif; /* Poppins fontu */
+  text-decoration: none; /* Alt çizgi kaldırma */
+  font-size: 18px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Şık gölge efekti */
+}
+
+.navigate-button:hover {
+  background-color: #ffca2b; /* Hover rengi */
+  text-decoration: none; /* Alt çizgi kaldırma */
+}

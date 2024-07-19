@@ -1,0 +1,140 @@
+.container {
+    margin-top: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('../assets/background.jpg'); /* Arka plan resmi */
+    background-size: cover; /* Resmin tam kapsaması için */
+    background-position: center; /* Ortalanmış şekilde */
+    background-repeat: no-repeat; /* Tekrar etmemesi için */
+}
+
+.header {
+    width: 100%;
+    height: 13vh;
+    background-color: #81b8d1;
+    text-align: center;
+    font-size: 2.3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+.logo{
+    width: 150px; /* Logo genişliği */
+    height: auto; /* Otomatik yükseklik */
+    margin-right: 10px; /* Logo ile metin arasındaki boşluk */
+}
+
+
+.questions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.question-card {
+    background: linear-gradient(#ffffff, #c4e8f1);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    flex: 1 1 calc(33.333% - 40px);
+    /* 3 kartın sığması için */
+    box-sizing: border-box;
+    text-align: center;
+    min-width: 250px;
+    font-size: 2vh;
+    overflow-y: auto;
+    font-family: "poppins", monospace;
+    height: 18vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: calc(33.333% - 40px);
+    margin-top: 20px;
+    /* 3 kartın sığması için */
+}
+
+.start-button {
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-radius: 9px;
+    background: #d5f365;
+    font-size: 4vh;
+    border: none;
+    font-family: inherit;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.start-button:hover {
+    box-shadow: 7px 5px 56px -14px #C3D900;
+}
+
+.start-button:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10px #C3D900;
+}
+
+.methods {
+    margin-top: 30px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.method-card {
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    background-color: #72cfcb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    font-family: "poppins",monospace;
+}
+
+.arrow {
+    font-size: 2em;
+}
+
+/* Responsive ayarlar */
+@media (max-width: 768px) {
+    .question-card {
+        flex: 1 1 calc(50% - 40px);
+        /* 2 kartın sığması için */
+        max-width: calc(50% - 40px);
+        /* 2 kartın sığması için */
+    }
+}
+
+@media (max-width: 480px) {
+    .question-card {
+        flex: 1 1 calc(100% - 40px);
+        /* 1 kartın sığması için */
+        max-width: calc(100% - 40px);
+        /* 1 kartın sığması için */
+    }
+}

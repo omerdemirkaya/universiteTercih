@@ -1,0 +1,242 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Matematikle aran nasıl?",
+        "answers": [
+          {
+            "option": "Çok iyiyim, matematiği severim.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, bazen zorlanırım.",
+            "score": 2
+          },
+          {
+            "option": "Hiç sevmem, matematik bana göre değil.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Bilgisayar ve teknolojiye ilgin var mı?",
+        "answers": [
+          {
+            "option": "Evet, teknolojiyle ilgiliyim ve meraklıyım.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde ilgileniyorum.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, pek ilgilenmiyorum.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Yaratıcı düşünmeyi sever misin?",
+        "answers": [
+          {
+            "option": "Evet, yaratıcı düşünmeyi çok severim.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, bazen yaratıcı fikirler üretirim.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, genellikle mantıklı düşünmeyi tercih ederim.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Sosyal etkinliklere katılmayı sever misin?",
+        "answers": [
+          {
+            "option": "Evet, sosyal etkinliklerde bulunmaktan keyif alırım.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, zaman zaman katılırım.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, genellikle sosyal etkinliklere katılmam.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Müzik ve sanata ilgin var mı?",
+        "answers": [
+          {
+            "option": "Evet, müzik ve sanatla ilgilenirim.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, zaman zaman ilgilenirim.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, pek ilgilenmiyorum.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Problem çözmeyi seviyor musun?",
+        "answers": [
+          {
+            "option": "Evet, problem çözmeyi severim ve iyi yaparım.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, bazen zorlanırım.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, genellikle problem çözme konusunda zorlanırım.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Yabancı dillerle ilgileniyor musun?",
+        "answers": [
+          {
+            "option": "Evet, yabancı dil öğrenmeyi ve pratik yapmayı severim.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, yabancı dil konusunda bazı temel bilgilerim var.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, pek ilgilenmiyorum.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Doğa ve çevre konularına ilgin var mı?",
+        "answers": [
+          {
+            "option": "Evet, doğa ve çevre konularıyla ilgilenirim.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, bazen ilgilenirim.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, pek ilgilenmiyorum.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Organizasyon ve planlama yapmayı sever misin?",
+        "answers": [
+          {
+            "option": "Evet, organizasyon yapmayı ve planlama yapmayı severim.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, bazen plan yaparım ama detaylara takılmam.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, genellikle organizasyon ve plan yapmaktan kaçınırım.",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "question": "Ekip çalışmasına ne kadar yatkınsın?",
+        "answers": [
+          {
+            "option": "Çok iyiyim, ekip içinde çalışmayı severim ve başarılı olurum.",
+            "score": 3
+          },
+          {
+            "option": "Orta düzeyde, zaman zaman ekip çalışması yaparım ama bağımsız çalışmayı tercih ederim.",
+            "score": 2
+          },
+          {
+            "option": "Hayır, genellikle bağımsız çalışmayı tercih ederim.",
+            "score": 1
+          }
+        ]
+      }
+    ],
+    "departments": [
+      {
+        "name": "Bilgisayar Mühendisliği",
+        "scoreRange": [25, 30],
+        "description": "Teknolojiye meraklı, problem çözmeyi seven ve yaratıcı düşünen kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "İşletme",
+        "scoreRange": [20, 24],
+        "description": "Organizasyon yapmayı seven, ekip çalışmasına yatkın ve yönetim becerileri gelişmiş kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Grafik Tasarım",
+        "scoreRange": [15, 19],
+        "description": "Sanata ve yaratıcı düşünmeye ilgi duyan, görsel iletişim becerilerini geliştirmek isteyen kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Çevre Mühendisliği",
+        "scoreRange": [10, 14],
+        "description": "Doğa ve çevre konularına duyarlı, çevre sorunlarını çözmeye yönelik çalışmalarda bulunmak isteyen kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Müzik",
+        "scoreRange": [5, 9],
+        "description": "Müziğe ve sanata büyük ilgi duyan, müzikal yeteneklerini geliştirmek isteyen kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Psikoloji",
+        "scoreRange": [0, 4],
+        "description": "İnsan davranışlarını anlamaya ve insan psikolojisini incelemeye meraklı, insanlarla çalışmayı seven kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Makine Mühendisliği",
+        "scoreRange": [25, 30],
+        "description": "Makineler ve mekanik sistemlerle ilgilenen, problem çözme yeteneği yüksek ve matematik becerileri gelişmiş kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Biyoloji",
+        "scoreRange": [20, 24],
+        "description": "Canlı organizmaları incelemeye ve biyolojik süreçleri anlamaya meraklı, laboratuvar çalışmalarına ilgi duyan kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Edebiyat",
+        "scoreRange": [15, 19],
+        "description": "Edebi metinleri analiz etmeyi ve yazı yazmayı seven, dil ve edebiyat konularına derinlemesine ilgi duyan kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Hukuk",
+        "scoreRange": [10, 14],
+        "description": "Adalet ve hukuk sistemlerini anlamaya ve yorumlamaya meraklı, hukuki tartışmalara katılmayı isteyen kişiler için uygun bir bölüm."
+      },
+      {
+        "name": "Tiyatro",
+        "scoreRange": [5, 9],
+        "description": "Sahne sanatlarına ilgi duyan, oyunculuk ve dramatik sanatları öğrenmek isteyen kişiler için uygun bir bölüm."
+      }
+    ]
+  }
+  

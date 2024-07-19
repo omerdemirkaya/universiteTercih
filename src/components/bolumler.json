@@ -1,0 +1,1878 @@
+[
+  {
+    "id": 1,
+    "name": "ACİL YARDIM VE AFET YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 2,
+    "name": "ACİL YARDIM VE AFET YÖNETİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 3,
+    "name": "ADLİ BİLİMLER"
+  },
+  {
+    "id": 4,
+    "name": "ADLİ BİLİŞİM MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 5,
+    "name": "ADLİ BİLİŞİM MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 6,
+    "name": "AĞAÇ İŞLERİ ENDÜSTRİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 7,
+    "name": "AĞAÇ İŞLERİ ENDÜSTRİ MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 8,
+    "name": "AİLE VE TÜKETİCİ BİLİMLERİ"
+  },
+  {
+    "id": 9,
+    "name": "AKTÜERYA BİLİMLERİ(FAKÜLTE)"
+  },
+  {
+    "id": 10,
+    "name": "ALMAN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 11,
+    "name": "ALMANCA MÜTERCİM VE TERCÜMANLIK(FAKÜLTE)"
+  },
+  {
+    "id": 12,
+    "name": "ALMANCA MÜTERCİM VE TERCÜMANLIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 13,
+    "name": "ALMANCA ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 14,
+    "name": "AMERİKAN KÜLTÜRÜ VE EDEBİYATI"
+  },
+  {
+    "id": 15,
+    "name": "ANTRENÖRLÜK EĞİTİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 16,
+    "name": "ANTRENÖRLÜK EĞİTİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 17,
+    "name": "ANTROPOLOJİ"
+  },
+  {
+    "id": 18,
+    "name": "ARAP DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 19,
+    "name": "ARAPÇA MÜTERCİM VE TERCÜMANLIK(FAKÜLTE)"
+  },
+  {
+    "id": 20,
+    "name": "ARAPÇA MÜTERCİM VE TERCÜMANLIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 21,
+    "name": "ARAPÇA ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 22,
+    "name": "ARKEOLOJİ"
+  },
+  {
+    "id": 23,
+    "name": "ARKEOLOJİ VE SANAT TARİHİ"
+  },
+  {
+    "id": 24,
+    "name": "ARNAVUT DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 25,
+    "name": "ASTRONOMİ VE UZAY BİLİMLERİ"
+  },
+  {
+    "id": 26,
+    "name": "AYAKKABI TASARIMI VE ÜRETİMİ"
+  },
+  {
+    "id": 27,
+    "name": "AZERBAYCAN TÜRKÇESİ VE EDEBİYATI"
+  },
+  {
+    "id": 28,
+    "name": "BAHÇE BİTKİLERİ"
+  },
+  {
+    "id": 29,
+    "name": "BALIKÇILIK TEKNOLOJİSİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 30,
+    "name": "BANKACILIK"
+  },
+  {
+    "id": 31,
+    "name": "BANKACILIK VE FİNANS"
+  },
+  {
+    "id": 32,
+    "name": "BANKACILIK VE SİGORTACILIK(FAKÜLTE)"
+  },
+  {
+    "id": 33,
+    "name": "BANKACILIK VE SİGORTACILIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 34,
+    "name": "BASIM TEKNOLOJİLERİ"
+  },
+  {
+    "id": 35,
+    "name": "BASIN VE YAYIN"
+  },
+  {
+    "id": 36,
+    "name": "BATI DİLLERİ"
+  },
+  {
+    "id": 37,
+    "name": "BEDEN EĞİTİMİ VE SPOR ÖĞRETMENLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 38,
+    "name": "BEDEN EĞİTİMİ VE SPOR ÖĞRETMENLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 39,
+    "name": "BESLENME VE DİYETETİK(FAKÜLTE)"
+  },
+  {
+    "id": 40,
+    "name": "BESLENME VE DİYETETİK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 41,
+    "name": "BİLGİ GÜVENLİĞİ TEKNOLOJİSİ(FAKÜLTE)"
+  },
+  {
+    "id": 42,
+    "name": "BİLGİ GÜVENLİĞİ TEKNOLOJİSİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 43,
+    "name": "BİLGİ VE BELGE YÖNETİMİ"
+  },
+  {
+    "id": 44,
+    "name": "BİLGİSAYAR BİLİMLERİ"
+  },
+  {
+    "id": 45,
+    "name": "BİLGİSAYAR MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 46,
+    "name": "BİLGİSAYAR MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 47,
+    "name": "BİLGİSAYAR TEKNOLOJİSİ VE BİLİŞİM SİSTEMLERİ"
+  },
+  {
+    "id": 48,
+    "name": "BİLGİSAYAR VE ÖĞRETİM TEKNOLOJİLERİ ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 49,
+    "name": "BİLİM TARİHİ"
+  },
+  {
+    "id": 50,
+    "name": "BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 51,
+    "name": "BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 52,
+    "name": "BİLİŞİM SİSTEMLERİ VE TEKNOLOJİLERİ(FAKÜLTE)"
+  },
+  {
+    "id": 53,
+    "name": "BİLİŞİM SİSTEMLERİ VE TEKNOLOJİLERİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 54,
+    "name": "BİTKİ KORUMA"
+  },
+  {
+    "id": 55,
+    "name": "BİTKİSEL ÜRETİM VE TEKNOLOJİLERİ"
+  },
+  {
+    "id": 56,
+    "name": "BİYOKİMYA"
+  },
+  {
+    "id": 57,
+    "name": "BİYOLOJİ"
+  },
+  {
+    "id": 58,
+    "name": "BİYOLOJİ ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 59,
+    "name": "BİYOMEDİKAL MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 60,
+    "name": "BİYOMEDİKAL MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 61,
+    "name": "BİYOMÜHENDİSLİK"
+  },
+  {
+    "id": 62,
+    "name": "BİYOSİSTEM MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 63,
+    "name": "BİYOTEKNOLOJİ"
+  },
+  {
+    "id": 64,
+    "name": "BOŞNAK DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 65,
+    "name": "BULGAR DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 66,
+    "name": "BULGARCA MÜTERCİM VE TERCÜMANLIK"
+  },
+  {
+    "id": 67,
+    "name": "ÇAĞDAŞ TÜRK LEHÇELERİ VE EDEBİYATLARI"
+  },
+  {
+    "id": 68,
+    "name": "ÇAĞDAŞ YUNAN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 69,
+    "name": "ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ"
+  },
+  {
+    "id": 70,
+    "name": "ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 71,
+    "name": "ÇERKEZ DİLİ VE KÜLTÜRÜ"
+  },
+  {
+    "id": 72,
+    "name": "CEVHER HAZIRLAMA MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 73,
+    "name": "ÇEVİRİBİLİMİ"
+  },
+  {
+    "id": 74,
+    "name": "ÇEVRE MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 75,
+    "name": "ÇİN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 76,
+    "name": "ÇİNCE MÜTERCİM VE TERCÜMANLIK"
+  },
+  {
+    "id": 77,
+    "name": "ÇİZGİ FİLM VE ANİMASYON"
+  },
+  {
+    "id": 78,
+    "name": "ÇOCUK GELİŞİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 79,
+    "name": "ÇOCUK GELİŞİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 80,
+    "name": "ÇOCUK GELİŞİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 81,
+    "name": "COĞRAFYA"
+  },
+  {
+    "id": 82,
+    "name": "COĞRAFYA ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 83,
+    "name": "COĞRAFYA(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 84,
+    "name": "DENİZ ULAŞTIRMA İŞLETME MÜHENDİSLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 85,
+    "name": "DENİZ ULAŞTIRMA İŞLETME MÜHENDİSLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 86,
+    "name": "DENİZCİLİK İŞLETMELERİ YÖNETİMİ"
+  },
+  {
+    "id": 87,
+    "name": "DERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 88,
+    "name": "DİJİTAL OYUN TASARIMI"
+  },
+  {
+    "id": 89,
+    "name": "DİL VE KONUŞMA TERAPİSİ(FAKÜLTE)"
+  },
+  {
+    "id": 90,
+    "name": "DİL VE KONUŞMA TERAPİSİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 91,
+    "name": "DİLBİLİMİ"
+  },
+  {
+    "id": 92,
+    "name": "DİŞ HEKİMLİĞİ"
+  },
+  {
+    "id": 93,
+    "name": "DOĞU DİLLERİ"
+  },
+  {
+    "id": 94,
+    "name": "EBELİK(FAKÜLTE)"
+  },
+  {
+    "id": 95,
+    "name": "EBELİK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 96,
+    "name": "ECZACILIK"
+  },
+  {
+    "id": 97,
+    "name": "EGZERSİZ VE SPOR BİLİMLERİ"
+  },
+  {
+    "id": 98,
+    "name": "EGZERSİZ VE SPOR BİLİMLERİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 99,
+    "name": "EKONOMETRİ"
+  },
+  {
+    "id": 100,
+    "name": "EKONOMİ"
+  },
+  {
+    "id": 101,
+    "name": "EKONOMİ VE FİNANS"
+  },
+  {
+    "id": 102,
+    "name": "EL SANATLARI"
+  },
+  {
+    "id": 103,
+    "name": "EL SANATLARI(M.T.O.K.)"
+  },
+  {
+    "id": 104,
+    "name": "ELEKTRİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 105,
+    "name": "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 106,
+    "name": "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 107,
+    "name": "ELEKTRONİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 108,
+    "name": "ELEKTRONİK TİCARET VE YÖNETİMİ"
+  },
+  {
+    "id": 109,
+    "name": "ELEKTRONİK TİCARET VE YÖNETİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 110,
+    "name": "ELEKTRONİK VE HABERLEŞME MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 111,
+    "name": "EMLAK VE EMLAK YÖNETİMİ"
+  },
+  {
+    "id": 112,
+    "name": "ENDÜSTRİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 113,
+    "name": "ENDÜSTRİYEL TASARIM MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 114,
+    "name": "ENDÜSTRİYEL TASARIM MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 115,
+    "name": "ENDÜSTRİYEL TASARIM(FAKÜLTE)"
+  },
+  {
+    "id": 116,
+    "name": "ENDÜSTRİYEL TASARIM(YÜKSEKOKUL)"
+  },
+  {
+    "id": 117,
+    "name": "ENERJİ BİLİMİ VE TEKNOLOJİLERİ"
+  },
+  {
+    "id": 118,
+    "name": "ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 119,
+    "name": "ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 120,
+    "name": "ENERJİ YÖNETİMİ"
+  },
+  {
+    "id": 121,
+    "name": "ERGOTERAPİ"
+  },
+  {
+    "id": 122,
+    "name": "ERMENİ DİLİ VE KÜLTÜRÜ"
+  },
+  {
+    "id": 123,
+    "name": "ESKİ YUNAN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 124,
+    "name": "FARS DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 125,
+    "name": "FARSÇA MÜTERCİM VE TERCÜMANLIK"
+  },
+  {
+    "id": 126,
+    "name": "FELSEFE"
+  },
+  {
+    "id": 127,
+    "name": "FELSEFE GRUBU ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 128,
+    "name": "FELSEFE(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 129,
+    "name": "FEN BİLGİSİ ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 130,
+    "name": "FİLM TASARIMI VE YAZARLIĞI"
+  },
+  {
+    "id": 131,
+    "name": "FİLM TASARIMI VE YÖNETİMİ"
+  },
+  {
+    "id": 132,
+    "name": "FİLM TASARIMI VE YÖNETMENLİĞİ"
+  },
+  {
+    "id": 133,
+    "name": "FİNANS VE BANKACILIK(FAKÜLTE)"
+  },
+  {
+    "id": 134,
+    "name": "FİNANS VE BANKACILIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 135,
+    "name": "FİZİK"
+  },
+  {
+    "id": 136,
+    "name": "FİZİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 137,
+    "name": "FİZİK ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 138,
+    "name": "FİZYOTERAPİ VE REHABİLİTASYON(FAKÜLTE)"
+  },
+  {
+    "id": 139,
+    "name": "FİZYOTERAPİ VE REHABİLİTASYON(YÜKSEKOKUL)"
+  },
+  {
+    "id": 140,
+    "name": "FOTOĞRAF"
+  },
+  {
+    "id": 141,
+    "name": "FOTOĞRAF VE VİDEO"
+  },
+  {
+    "id": 142,
+    "name": "FOTONİK"
+  },
+  {
+    "id": 143,
+    "name": "FRANSIZ DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 144,
+    "name": "FRANSIZCA MÜTERCİM VE TERCÜMANLIK"
+  },
+  {
+    "id": 145,
+    "name": "FRANSIZCA ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 146,
+    "name": "GASTRONOMİ VE MUTFAK SANATLARI(FAKÜLTE)"
+  },
+  {
+    "id": 147,
+    "name": "GASTRONOMİ VE MUTFAK SANATLARI(FAKÜLTE)(M.T.O.K)"
+  },
+  {
+    "id": 148,
+    "name": "GASTRONOMİ VE MUTFAK SANATLARI(YÜKSEKOKUL)"
+  },
+  {
+    "id": 149,
+    "name": "GAYRİMENKUL GELİŞTİRME VE YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 150,
+    "name": "GAZETECİLİK"
+  },
+  {
+    "id": 151,
+    "name": "GELENEKSEL TÜRK SANATLARI(M.T.O.K.)"
+  },
+  {
+    "id": 152,
+    "name": "GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 153,
+    "name": "GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 154,
+    "name": "GEMİ VE DENİZ TEKNOLOJİSİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 155,
+    "name": "GEMİ VE YAT TASARIMI"
+  },
+  {
+    "id": 156,
+    "name": "GENETİK VE BİYOMÜHENDİSLİK"
+  },
+  {
+    "id": 157,
+    "name": "GENETİK VE YAŞAM BİLİMLERİ PROGRAMLARI"
+  },
+  {
+    "id": 158,
+    "name": "GEOMATİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 159,
+    "name": "GERONTOLOJİ"
+  },
+  {
+    "id": 160,
+    "name": "GIDA MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 161,
+    "name": "GIDA TEKNOLOJİSİ(FAKÜLTE)"
+  },
+  {
+    "id": 162,
+    "name": "GIDA TEKNOLOJİSİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 163,
+    "name": "GİRİŞİMCİLİK"
+  },
+  {
+    "id": 164,
+    "name": "GÖRSEL İLETİŞİM TASARIMI"
+  },
+  {
+    "id": 165,
+    "name": "GÖRSEL İLETİŞİM TASARIMI(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 166,
+    "name": "GÖRSEL SANATLAR"
+  },
+  {
+    "id": 167,
+    "name": "GÖRSEL SANATLAR VE İLETİŞİM TASARIMI"
+  },
+  {
+    "id": 168,
+    "name": "GÖRSEL SANATLAR(M.T.O.K.)"
+  },
+  {
+    "id": 169,
+    "name": "GRAFİK"
+  },
+  {
+    "id": 170,
+    "name": "GRAFİK SANATLAR(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 171,
+    "name": "GRAFİK TASARIMI"
+  },
+  {
+    "id": 172,
+    "name": "GRAFİK TASARIMI(M.T.O.K.)"
+  },
+  {
+    "id": 173,
+    "name": "GÜMRÜK İŞLETME(FAKÜLTE)"
+  },
+  {
+    "id": 174,
+    "name": "GÜMRÜK İŞLETME(YÜKSEKOKUL)"
+  },
+  {
+    "id": 175,
+    "name": "GÜRCÜ DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 176,
+    "name": "HALKBİLİMİ"
+  },
+  {
+    "id": 177,
+    "name": "HALKLA İLİŞKİLER VE REKLAMCILIK(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 178,
+    "name": "HALKLA İLİŞKİLER VE REKLAMCILIK(FAKÜLTE)"
+  },
+  {
+    "id": 179,
+    "name": "HALKLA İLİŞKİLER VE REKLAMCILIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 180,
+    "name": "HALKLA İLİŞKİLER VE TANITIM"
+  },
+  {
+    "id": 181,
+    "name": "HALKLA İLİŞKİLER VE TANITIM(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 182,
+    "name": "HARİTA MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 183,
+    "name": "HAVACILIK ELEKTRİK VE ELEKTRONİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 184,
+    "name": "HAVACILIK ELEKTRİK VE ELEKTRONİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 185,
+    "name": "HAVACILIK VE UZAY MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 186,
+    "name": "HAVACILIK YÖNETİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 187,
+    "name": "HAVACILIK YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 188,
+    "name": "HAVACILIK YÖNETİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 189,
+    "name": "HAYVANSAL ÜRETİM VE TEKNOLOJİLERİ"
+  },
+  {
+    "id": 190,
+    "name": "HEMŞİRELİK(FAKÜLTE)"
+  },
+  {
+    "id": 191,
+    "name": "HEMŞİRELİK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 192,
+    "name": "HİDROJEOLOJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 193,
+    "name": "HİNDOLOJİ"
+  },
+  {
+    "id": 194,
+    "name": "HİTİTOLOJİ"
+  },
+  {
+    "id": 195,
+    "name": "HUKUK"
+  },
+  {
+    "id": 196,
+    "name": "HUNGAROLOJİ"
+  },
+  {
+    "id": 197,
+    "name": "İBRANİ DİLİ VE KÜLTÜRÜ"
+  },
+  {
+    "id": 198,
+    "name": "İÇ MİMARLIK"
+  },
+  {
+    "id": 199,
+    "name": "İÇ MİMARLIK VE ÇEVRE TASARIMI"
+  },
+  {
+    "id": 200,
+    "name": "İKTİSADİ VE İDARİ BİLİMLER PROGRAMLARI"
+  },
+  {
+    "id": 201,
+    "name": "İKTİSADİ VE İDARİ PROGRAMLAR"
+  },
+  {
+    "id": 202,
+    "name": "İKTİSAT"
+  },
+  {
+    "id": 203,
+    "name": "İKTİSAT(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 204,
+    "name": "İLAHİYAT"
+  },
+  {
+    "id": 205,
+    "name": "İLAHİYAT(M.T.O.K.)"
+  },
+  {
+    "id": 206,
+    "name": "İLETİŞİM"
+  },
+  {
+    "id": 207,
+    "name": "İLETİŞİM BİLİMLERİ"
+  },
+  {
+    "id": 208,
+    "name": "İLETİŞİM SANATLARI"
+  },
+  {
+    "id": 209,
+    "name": "İLETİŞİM TASARIMI VE YÖNETİMİ"
+  },
+  {
+    "id": 210,
+    "name": "İLETİŞİM VE TASARIMI"
+  },
+  {
+    "id": 211,
+    "name": "İLKÖĞRETİM MATEMATİK ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 212,
+    "name": "İMALAT MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 213,
+    "name": "İNGİLİZ DİLBİLİMİ"
+  },
+  {
+    "id": 214,
+    "name": "İNGİLİZ DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 215,
+    "name": "İNGİLİZ VE RUS DİLLERİ VE EDEBİYATLARI"
+  },
+  {
+    "id": 216,
+    "name": "İNGİLİZCE MÜTERCİM VE TERCÜMANLIK(FAKÜLTE)"
+  },
+  {
+    "id": 217,
+    "name": "İNGİLİZCE MÜTERCİM VE TERCÜMANLIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 218,
+    "name": "İNGİLİZCE ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 219,
+    "name": "İNGİLİZCE, FRANSIZCA MÜTERCİM VE TERCÜMANLIK"
+  },
+  {
+    "id": 220,
+    "name": "İNŞAAT MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 221,
+    "name": "İNŞAAT MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 222,
+    "name": "İNSAN KAYNAKLARI YÖNETİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 223,
+    "name": "İNSAN KAYNAKLARI YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 224,
+    "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 225,
+    "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 226,
+    "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 227,
+    "name": "İSLAM BİLİMLERİ"
+  },
+  {
+    "id": 228,
+    "name": "İSLAM İKTİSADI VE FİNANS"
+  },
+  {
+    "id": 229,
+    "name": "İSLAMİ İLİMLER"
+  },
+  {
+    "id": 230,
+    "name": "İSLAMİ İLİMLER(M.T.O.K.)"
+  },
+  {
+    "id": 231,
+    "name": "İŞLETME"
+  },
+  {
+    "id": 232,
+    "name": "İŞLETME MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 233,
+    "name": "İŞLETME(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 234,
+    "name": "İSPANYOL DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 235,
+    "name": "İSTATİSTİK"
+  },
+  {
+    "id": 236,
+    "name": "İSTATİSTİK VE BİLGİSAYAR BİLİMLERİ"
+  },
+  {
+    "id": 237,
+    "name": "İTALYAN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 238,
+    "name": "JAPON DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 239,
+    "name": "JAPONCA MÜTERCİM VE TERCÜMANLIK"
+  },
+  {
+    "id": 240,
+    "name": "JAPONCA ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 241,
+    "name": "JEOFİZİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 242,
+    "name": "JEOLOJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 243,
+    "name": "KAMU YÖNETİMİ"
+  },
+  {
+    "id": 244,
+    "name": "KAMU YÖNETİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 245,
+    "name": "KANATLI HAYVAN YETİŞTİRİCİLİĞİ"
+  },
+  {
+    "id": 246,
+    "name": "KARŞILAŞTIRMALI EDEBİYAT"
+  },
+  {
+    "id": 247,
+    "name": "KAZAK DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 248,
+    "name": "KENTSEL TASARIM VE PEYZAJ MİMARLIĞI"
+  },
+  {
+    "id": 249,
+    "name": "KİMYA"
+  },
+  {
+    "id": 250,
+    "name": "KİMYA MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 251,
+    "name": "KİMYA ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 252,
+    "name": "KİMYA-BİYOLOJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 253,
+    "name": "KLASİK ARKEOLOJİ"
+  },
+  {
+    "id": 254,
+    "name": "KONTROL VE OTOMASYON MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 255,
+    "name": "KORE DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 256,
+    "name": "KÜLTÜR VARLIKLARINI KORUMA VE ONARIM(FAKÜLTE)"
+  },
+  {
+    "id": 257,
+    "name": "KÜLTÜR VARLIKLARINI KORUMA VE ONARIM(YÜKSEKOKUL)"
+  },
+  {
+    "id": 258,
+    "name": "KÜLTÜR VE İLETİŞİM BİLİMLERİ"
+  },
+  {
+    "id": 259,
+    "name": "KÜRESEL SİYASET VE ULUSLARARASI İLİŞKİLER"
+  },
+  {
+    "id": 260,
+    "name": "KURGU, SES VE GÖRÜNTÜ YÖNETİMİ"
+  },
+  {
+    "id": 261,
+    "name": "KÜRT DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 262,
+    "name": "KUYUMCULUK VE MÜCEVHER TASARIMI(FAKÜLTE)"
+  },
+  {
+    "id": 263,
+    "name": "LATİN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 264,
+    "name": "LEH DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 265,
+    "name": "LOJİSTİK YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 266,
+    "name": "LOJİSTİK YÖNETİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 267,
+    "name": "MADEN MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 268,
+    "name": "MAKİNE MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 269,
+    "name": "MAKİNE MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 270,
+    "name": "MALİYE"
+  },
+  {
+    "id": 271,
+    "name": "MALİYE(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 272,
+    "name": "MALZEME BİLİMİ VE MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 273,
+    "name": "MALZEME BİLİMİ VE NANOTEKNOLOJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 274,
+    "name": "MALZEME BİLİMİ VE TEKNOLOJİLERİ"
+  },
+  {
+    "id": 275,
+    "name": "MATEMATİK"
+  },
+  {
+    "id": 276,
+    "name": "MATEMATİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 277,
+    "name": "MATEMATİK ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 278,
+    "name": "MATEMATİK VE BİLGİSAYAR BİLİMLERİ"
+  },
+  {
+    "id": 279,
+    "name": "MEDYA VE GÖRSEL SANATLAR"
+  },
+  {
+    "id": 280,
+    "name": "MEDYA VE İLETİŞİM"
+  },
+  {
+    "id": 281,
+    "name": "MEKATRONİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 282,
+    "name": "MEKATRONİK MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 283,
+    "name": "METALURJİ VE MALZEME MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 284,
+    "name": "METALURJİ VE MALZEME MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 285,
+    "name": "METEOROLOJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 286,
+    "name": "MİMARLIK"
+  },
+  {
+    "id": 287,
+    "name": "MODA TASARIMI(FAKÜLTE)"
+  },
+  {
+    "id": 288,
+    "name": "MODA TASARIMI(FAKÜLTE)(M.T.O.K)"
+  },
+  {
+    "id": 289,
+    "name": "MODA TASARIMI(YÜKSEKOKUL)"
+  },
+  {
+    "id": 290,
+    "name": "MOLEKÜLER BİYOLOJİ VE GENETİK"
+  },
+  {
+    "id": 291,
+    "name": "MOLEKÜLER BİYOTEKNOLOJİ"
+  },
+  {
+    "id": 292,
+    "name": "MUHASEBE VE FİNANS YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 293,
+    "name": "MUHASEBE VE FİNANS YÖNETİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 294,
+    "name": "MÜHENDİSLİK PROGRAMLARI"
+  },
+  {
+    "id": 295,
+    "name": "MÜHENDİSLİK VE DOĞA BİLİMLERİ PROGRAMLARI"
+  },
+  {
+    "id": 296,
+    "name": "MÜTERCİM-TERCÜMANLIK"
+  },
+  {
+    "id": 297,
+    "name": "MÜZECİLİK"
+  },
+  {
+    "id": 298,
+    "name": "NANOBİLİM VE NANOTEKNOLOJİ"
+  },
+  {
+    "id": 299,
+    "name": "NANOTEKNOLOJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 300,
+    "name": "NÜKLEER ENERJİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 301,
+    "name": "ODYOLOJİ(FAKÜLTE)"
+  },
+  {
+    "id": 302,
+    "name": "ODYOLOJİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 303,
+    "name": "OKUL ÖNCESİ ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 304,
+    "name": "OPTİK VE AKUSTİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 305,
+    "name": "ORGANİK TARIM İŞLETMECİLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 306,
+    "name": "ORGANİK TARIM İŞLETMECİLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 307,
+    "name": "ORMAN ENDÜSTRİSİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 308,
+    "name": "ORMAN MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 309,
+    "name": "ORTEZ VE PROTEZ"
+  },
+  {
+    "id": 310,
+    "name": "OTEL YÖNETİCİLİĞİ"
+  },
+  {
+    "id": 311,
+    "name": "OTOMOTİV MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 312,
+    "name": "OTOMOTİV MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 313,
+    "name": "ÖZEL EĞİTİM ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 314,
+    "name": "PAZARLAMA(FAKÜLTE)"
+  },
+  {
+    "id": 315,
+    "name": "PAZARLAMA(YÜKSEKOKUL)"
+  },
+  {
+    "id": 316,
+    "name": "PERFÜZYON"
+  },
+  {
+    "id": 317,
+    "name": "PETROL VE DOĞALGAZ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 318,
+    "name": "PEYZAJ MİMARLIĞI"
+  },
+  {
+    "id": 319,
+    "name": "PİLOTAJ(FAKÜLTE)"
+  },
+  {
+    "id": 320,
+    "name": "PİLOTAJ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 321,
+    "name": "POLİMER MALZEME MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 322,
+    "name": "POLİTİKA VE EKONOMİ"
+  },
+  {
+    "id": 323,
+    "name": "PROTOHİSTORYA VE ÖN ASYA ARKEOLOJİSİ"
+  },
+  {
+    "id": 324,
+    "name": "PSİKOLOJİ"
+  },
+  {
+    "id": 325,
+    "name": "PSİKOLOJİK DANIŞMANLIK VE REHBERLİK"
+  },
+  {
+    "id": 326,
+    "name": "PSİKOLOJİK DANIŞMANLIK VE REHBERLİK ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 327,
+    "name": "RADYO, TELEVİZYON VE SİNEMA"
+  },
+  {
+    "id": 328,
+    "name": "RAYLI SİSTEMLER MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 329,
+    "name": "REHBERLİK VE PSİKOLOJİK DANIŞMANLIK"
+  },
+  {
+    "id": 330,
+    "name": "REKLAM TASARIMI VE İLETİŞİMİ"
+  },
+  {
+    "id": 331,
+    "name": "REKLAMCILIK"
+  },
+  {
+    "id": 332,
+    "name": "REKLAMCILIK(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 333,
+    "name": "REKREASYON YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 334,
+    "name": "REKREASYON YÖNETİMİ(FAKÜLTE)(M.T.O.K)"
+  },
+  {
+    "id": 335,
+    "name": "REKREASYON YÖNETİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 336,
+    "name": "REKREASYON(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 337,
+    "name": "REKREASYON(FAKÜLTE)"
+  },
+  {
+    "id": 338,
+    "name": "RUS DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 339,
+    "name": "RUS DİLİ VE EDEBİYATI ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 340,
+    "name": "RUS VE İNGİLİZ DİLLERİ VE EDEBİYATLARI"
+  },
+  {
+    "id": 341,
+    "name": "RUSÇA MÜTERCİM VE TERCÜMANLIK(FAKÜLTE)"
+  },
+  {
+    "id": 342,
+    "name": "RUSÇA MÜTERCİM VE TERCÜMANLIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 343,
+    "name": "SAĞLIK YÖNETİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 344,
+    "name": "SAĞLIK YÖNETİMİ(FAKÜLTE)"
+  },
+  {
+    "id": 345,
+    "name": "SAĞLIK YÖNETİMİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 346,
+    "name": "SANAT TARİHİ"
+  },
+  {
+    "id": 347,
+    "name": "SANAT VE KÜLTÜR YÖNETİMİ"
+  },
+  {
+    "id": 348,
+    "name": "SANAT VE SOSYAL BİLİMLER PROGRAMLARI"
+  },
+  {
+    "id": 349,
+    "name": "ŞEHİR VE BÖLGE PLANLAMA"
+  },
+  {
+    "id": 350,
+    "name": "SERMAYE PİYASASI(FAKÜLTE)"
+  },
+  {
+    "id": 351,
+    "name": "SEYAHAT İŞLETMECİLİĞİ"
+  },
+  {
+    "id": 352,
+    "name": "SEYAHAT İŞLETMECİLİĞİ VE TURİZM REHBERLİĞİ"
+  },
+  {
+    "id": 353,
+    "name": "SİGORTACILIK VE AKTÜERYA BİLİMLERİ"
+  },
+  {
+    "id": 354,
+    "name": "SİGORTACILIK VE RİSK YÖNETİMİ"
+  },
+  {
+    "id": 355,
+    "name": "SİGORTACILIK VE SOSYAL GÜVENLİK"
+  },
+  {
+    "id": 356,
+    "name": "SİGORTACILIK(FAKÜLTE)"
+  },
+  {
+    "id": 357,
+    "name": "SİGORTACILIK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 358,
+    "name": "SİNEMA VE DİJİTAL MEDYA"
+  },
+  {
+    "id": 359,
+    "name": "SİNEMA VE TELEVİZYON"
+  },
+  {
+    "id": 360,
+    "name": "SINIF ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 361,
+    "name": "SİNOLOJİ"
+  },
+  {
+    "id": 362,
+    "name": "SİYASAL BİLİMLER"
+  },
+  {
+    "id": 363,
+    "name": "SİYASET BİLİMİ"
+  },
+  {
+    "id": 364,
+    "name": "SİYASET BİLİMİ VE KAMU YÖNETİMİ"
+  },
+  {
+    "id": 365,
+    "name": "SİYASET BİLİMİ VE KAMU YÖNETİMİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 366,
+    "name": "SİYASET BİLİMİ VE ULUSLARARASI İLİŞKİLER"
+  },
+  {
+    "id": 367,
+    "name": "SİYASET BİLİMİ VE ULUSLARARASI İLİŞKİLER(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 368,
+    "name": "SOSYAL BİLGİLER ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 369,
+    "name": "SOSYAL HİZMET(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 370,
+    "name": "SOSYAL HİZMET(FAKÜLTE)"
+  },
+  {
+    "id": 371,
+    "name": "SOSYAL HİZMET(YÜKSEKOKUL)"
+  },
+  {
+    "id": 372,
+    "name": "SOSYOLOJİ"
+  },
+  {
+    "id": 373,
+    "name": "SOSYOLOJİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 374,
+    "name": "SPOR YÖNETİCİLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 375,
+    "name": "SPOR YÖNETİCİLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 376,
+    "name": "SU BİLİMLERİ VE MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 377,
+    "name": "SU ÜRÜNLERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 378,
+    "name": "SÜMEROLOJİ"
+  },
+  {
+    "id": 379,
+    "name": "SÜRYANİ DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 380,
+    "name": "SÜT TEKNOLOJİSİ"
+  },
+  {
+    "id": 381,
+    "name": "TAKI TASARIMI İMALATI"
+  },
+  {
+    "id": 382,
+    "name": "TAKI TASARIMI(FAKÜLTE)"
+  },
+  {
+    "id": 383,
+    "name": "TAKI TASARIMI(YÜKSEKOKUL)"
+  },
+  {
+    "id": 384,
+    "name": "TAPU KADASTRO"
+  },
+  {
+    "id": 385,
+    "name": "TARİH"
+  },
+  {
+    "id": 386,
+    "name": "TARİH ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 387,
+    "name": "TARİH ÖNCESİ ARKEOLOJİSİ"
+  },
+  {
+    "id": 388,
+    "name": "TARİH(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 389,
+    "name": "TARIM EKONOMİSİ"
+  },
+  {
+    "id": 390,
+    "name": "TARIM MAKİNELERİ VE TEKNOLOJİLERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 391,
+    "name": "TARIM TİCARETİ VE İŞLETMECİLİĞİ"
+  },
+  {
+    "id": 392,
+    "name": "TARIMSAL BİYOTEKNOLOJİ"
+  },
+  {
+    "id": 393,
+    "name": "TARIMSAL GENETİK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 394,
+    "name": "TARIMSAL YAPILAR VE SULAMA"
+  },
+  {
+    "id": 395,
+    "name": "TARLA BİTKİLERİ"
+  },
+  {
+    "id": 396,
+    "name": "TEKNOLOJİ VE BİLGİ YÖNETİMİ"
+  },
+  {
+    "id": 397,
+    "name": "TEKSTİL MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 398,
+    "name": "TEKSTİL MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 399,
+    "name": "TEKSTİL TASARIMI"
+  },
+  {
+    "id": 400,
+    "name": "TEKSTİL TASARIMI(M.T.O.K.)"
+  },
+  {
+    "id": 401,
+    "name": "TEKSTİL VE MODA TASARIMI(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 402,
+    "name": "TEKSTİL VE MODA TASARIMI(FAKÜLTE)"
+  },
+  {
+    "id": 403,
+    "name": "TEKSTİL VE MODA TASARIMI(YÜKSEKOKUL)"
+  },
+  {
+    "id": 404,
+    "name": "TELEVİZYON HABERCİLİĞİ VE PROGRAMCILIĞI"
+  },
+  {
+    "id": 405,
+    "name": "TIP"
+  },
+  {
+    "id": 406,
+    "name": "TIP MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 407,
+    "name": "TİYATRO ELEŞTİRMENLİĞİ VE DRAMATURJİ"
+  },
+  {
+    "id": 408,
+    "name": "TOHUM BİLİMİ VE TEKNOLOJİSİ"
+  },
+  {
+    "id": 409,
+    "name": "TOPRAK BİLİMİ VE BİTKİ BESLEME"
+  },
+  {
+    "id": 410,
+    "name": "TURİZM İŞLETMECİLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 411,
+    "name": "TURİZM İŞLETMECİLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 412,
+    "name": "TURİZM REHBERLİĞİ(FAKÜLTE)"
+  },
+  {
+    "id": 413,
+    "name": "TURİZM REHBERLİĞİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 414,
+    "name": "TURİZM VE OTEL İŞLETMECİLİĞİ"
+  },
+  {
+    "id": 415,
+    "name": "TÜRK DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 416,
+    "name": "TÜRK DİLİ VE EDEBİYATI ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 417,
+    "name": "TÜRK DİLİ VE EDEBİYATI(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 418,
+    "name": "TÜRK HALKBİLİMİ"
+  },
+  {
+    "id": 419,
+    "name": "TÜRK İSLAM ARKEOLOJİSİ"
+  },
+  {
+    "id": 420,
+    "name": "TÜRKÇE ÖĞRETMENLİĞİ"
+  },
+  {
+    "id": 421,
+    "name": "TÜRKOLOJİ"
+  },
+  {
+    "id": 422,
+    "name": "TÜTÜN EKSPERLİĞİ"
+  },
+  {
+    "id": 423,
+    "name": "UÇAK BAKIM VE ONARIM(FAKÜLTE)"
+  },
+  {
+    "id": 424,
+    "name": "UÇAK BAKIM VE ONARIM(YÜKSEKOKUL)"
+  },
+  {
+    "id": 425,
+    "name": "UÇAK ELEKTRİK VE ELEKTRONİĞİ"
+  },
+  {
+    "id": 426,
+    "name": "UÇAK GÖVDE VE MOTOR BAKIMI(FAKÜLTE)"
+  },
+  {
+    "id": 427,
+    "name": "UÇAK GÖVDE VE MOTOR BAKIMI(YÜKSEKOKUL)"
+  },
+  {
+    "id": 428,
+    "name": "UÇAK MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 429,
+    "name": "UKRAYNA DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 430,
+    "name": "ULUSLARARASI FİNANS"
+  },
+  {
+    "id": 431,
+    "name": "ULUSLARARASI FİNANS VE BANKACILIK"
+  },
+  {
+    "id": 432,
+    "name": "ULUSLARARASI GİRİŞİMCİLİK"
+  },
+  {
+    "id": 433,
+    "name": "ULUSLARARASI İLİŞKİLER"
+  },
+  {
+    "id": 434,
+    "name": "ULUSLARARASI İLİŞKİLER(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 435,
+    "name": "ULUSLARARASI İŞLETME YÖNETİMİ"
+  },
+  {
+    "id": 436,
+    "name": "ULUSLARARASI TİCARET VE FİNANS"
+  },
+  {
+    "id": 437,
+    "name": "ULUSLARARASI TİCARET VE FİNANSMAN(FAKÜLTE)"
+  },
+  {
+    "id": 438,
+    "name": "ULUSLARARASI TİCARET VE FİNANSMAN(YÜKSEKOKUL)"
+  },
+  {
+    "id": 439,
+    "name": "ULUSLARARASI TİCARET VE İŞLETMECİLİK(FAKÜLTE)"
+  },
+  {
+    "id": 440,
+    "name": "ULUSLARARASI TİCARET VE İŞLETMECİLİK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 441,
+    "name": "ULUSLARARASI TİCARET VE LOJİSTİK(AÇIKÖĞRETİM))"
+  },
+  {
+    "id": 442,
+    "name": "ULUSLARARASI TİCARET VE LOJİSTİK(FAKÜLTE)"
+  },
+  {
+    "id": 443,
+    "name": "ULUSLARARASI TİCARET VE LOJİSTİK(YÜKSEKOKUL)"
+  },
+  {
+    "id": 444,
+    "name": "ULUSLARARASI TİCARET(FAKÜLTE)"
+  },
+  {
+    "id": 445,
+    "name": "ULUSLARARASI TİCARET(YÜKSEKOKUL)"
+  },
+  {
+    "id": 446,
+    "name": "URDU DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 447,
+    "name": "UZAY BİLİMLERİ VE TEKNOLOJİLERİ"
+  },
+  {
+    "id": 448,
+    "name": "UZAY MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 449,
+    "name": "UZAY VE UYDU MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 450,
+    "name": "VETERİNERLİK"
+  },
+  {
+    "id": 451,
+    "name": "YABAN HAYATI EKOLOJİSİ VE YÖNETİMİ"
+  },
+  {
+    "id": 452,
+    "name": "YAPAY ZEKA MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 453,
+    "name": "YAPAY ZEKA VE VERİ MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 454,
+    "name": "YAZILIM GELİŞTİRME"
+  },
+  {
+    "id": 455,
+    "name": "YAZILIM MÜHENDİSLİĞİ"
+  },
+  {
+    "id": 456,
+    "name": "YAZILIM MÜHENDİSLİĞİ(M.T.O.K.)"
+  },
+  {
+    "id": 457,
+    "name": "YENİ MEDYA VE İLETİŞİM"
+  },
+  {
+    "id": 458,
+    "name": "YENİ MEDYA(FAKÜLTE)"
+  },
+  {
+    "id": 459,
+    "name": "YENİ MEDYA(YÜKSEKOKUL)"
+  },
+  {
+    "id": 460,
+    "name": "YEREL YÖNETİMLER"
+  },
+  {
+    "id": 461,
+    "name": "YİYECEK VE İÇECEK İŞLETMECİLİĞİ"
+  },
+  {
+    "id": 462,
+    "name": "YÖNETİM BİLİMLERİ PROGRAMLARI"
+  },
+  {
+    "id": 463,
+    "name": "YÖNETİM BİLİŞİM SİSTEMLERİ(AÇIKÖĞRETİM)"
+  },
+  {
+    "id": 464,
+    "name": "YÖNETİM BİLİŞİM SİSTEMLERİ(FAKÜLTE)"
+  },
+  {
+    "id": 465,
+    "name": "YÖNETİM BİLİŞİM SİSTEMLERİ(YÜKSEKOKUL)"
+  },
+  {
+    "id": 466,
+    "name": "YUNAN DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 467,
+    "name": "ZAZA DİLİ VE EDEBİYATI"
+  },
+  {
+    "id": 468,
+    "name": "ZİRAAT MÜHENDİSLİĞİ PROGRAMLARI"
+  },
+  {
+    "id": 469,
+    "name": "ZOOTEKNİ"
+  }
+]

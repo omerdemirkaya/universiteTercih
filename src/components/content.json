@@ -1,0 +1,411 @@
+{
+  "departments": [
+    {
+      "name": "Bilgisayar Mühendisliği",
+      "courses": [
+        {
+          "name": "Algoritma ve Programlama",
+          "description": "Temel algoritma tasarımı ve programlama kavramları. Algoritma çözümleme, veri yapılarına giriş."
+        },
+        {
+          "name": "Veri Yapıları ve Algoritmalar",
+          "description": "Veri yapılarının ve algoritmaların analiz ve tasarımı. Sıralama, arama algoritmaları ve veri yapıları."
+        },
+        {
+          "name": "Nesne Yönelimli Programlama",
+          "description": "Nesne yönelimli programlamanın temel ilkeleri, sınıflar, nesneler, kalıtım ve polimorfizm."
+        },
+        {
+          "name": "Veritabanı Yönetim Sistemleri",
+          "description": "Veritabanı tasarımı ve yönetimi, SQL, veritabanı normalizasyonu, veri modelleme."
+        },
+        {
+          "name": "Mikroişlemciler ve Mikrobilgisayarlar",
+          "description": "Mikroişlemci mimarisi, mikroişlemci programlama ve mikrobilgisayar sistemleri."
+        },
+        {
+          "name": "Web Programlama",
+          "description": "Web teknolojileri ve programlama. HTML, CSS, JavaScript ve sunucu tarafı programlama."
+        },
+        {
+          "name": "Bilgisayar Ağları",
+          "description": "Bilgisayar ağlarının temelleri, ağ mimarisi, protokoller ve ağ güvenliği."
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "description": "Yazılım geliştirme yaşam döngüsü, yazılım tasarımı ve test yöntemleri, proje yönetimi."
+        }
+      ]
+    },
+    {
+      "name": "İşletme",
+      "courses": [
+        {
+          "name": "İşletme Yönetimi",
+          "description": "İşletme yönetiminin temel prensipleri, yönetim fonksiyonları, karar verme süreçleri."
+        },
+        {
+          "name": "Pazarlama İlkeleri",
+          "description": "Pazarlama kavramları, stratejileri ve tüketici davranışları. Pazar araştırma ve planlama."
+        },
+        {
+          "name": "Muhasebe ve Finansal Yönetim",
+          "description": "Muhasebe ilkeleri, finansal tabloların analizi ve finansal yönetim stratejileri."
+        },
+        {
+          "name": "İnsan Kaynakları Yönetimi",
+          "description": "İnsan kaynakları planlaması, işe alım, eğitim ve gelişim, performans yönetimi."
+        },
+        {
+          "name": "Stratejik Yönetim",
+          "description": "Stratejik yönetim süreçleri, çevresel analiz, strateji formülasyonu ve uygulaması."
+        },
+        {
+          "name": "Organizasyonel Davranış",
+          "description": "Birey, grup ve organizasyon düzeyinde davranışların incelenmesi, motivasyon, liderlik."
+        },
+        {
+          "name": "Üretim Yönetimi",
+          "description": "Üretim süreçlerinin yönetimi, kalite kontrol, tedarik zinciri yönetimi."
+        },
+        {
+          "name": "Girişimcilik",
+          "description": "Girişimcilik süreçleri, iş planı hazırlama, yenilikçilik ve iş modeli geliştirme."
+        }
+      ]
+    },
+    {
+      "name": "Grafik Tasarım",
+      "courses": [
+        {
+          "name": "Temel Grafik Tasarımı",
+          "description": "Grafik tasarımın temel prensipleri, tasarım unsurları ve kompozisyon."
+        },
+        {
+          "name": "Görsel İletişim Tasarımı",
+          "description": "Görsel iletişim kuramları, görsel anlatım ve medya kullanımı."
+        },
+        {
+          "name": "Tipografi ve Grafik Tasarım",
+          "description": "Tipografi tarihçesi, tipografik tasarım prensipleri ve uygulamaları."
+        },
+        {
+          "name": "Dijital Medya Tasarımı",
+          "description": "Dijital medya araçları ve teknikleri, web ve mobil tasarım."
+        },
+        {
+          "name": "İllüstrasyon Teknikleri",
+          "description": "İllüstrasyonun temelleri, teknikleri ve uygulamaları."
+        },
+        {
+          "name": "Reklam Tasarımı",
+          "description": "Reklam tasarımının prensipleri, reklam kampanyaları ve medya planlaması."
+        },
+        {
+          "name": "Kullanıcı Arayüzü Tasarımı",
+          "description": "Kullanıcı arayüzü tasarım prensipleri, kullanıcı deneyimi (UX) ve kullanıcı araştırması."
+        },
+        {
+          "name": "Marka ve Kurumsal Kimlik Tasarımı",
+          "description": "Marka kimliği oluşturma, kurumsal kimlik tasarımı ve marka yönetimi."
+        }
+      ]
+    },
+    {
+      "name": "Çevre Mühendisliği",
+      "courses": [
+        {
+          "name": "Çevre Kimyası",
+          "description": "Çevre kimyasının temel prensipleri, kirleticilerin çevresel etkileri ve analizi."
+        },
+        {
+          "name": "Atık Yönetimi",
+          "description": "Atık yönetimi sistemleri, geri dönüşüm, atık azaltma ve bertaraf yöntemleri."
+        },
+        {
+          "name": "Hava ve Su Kirliliği Kontrolü",
+          "description": "Hava ve su kirleticileri, kontrol yöntemleri ve yasal düzenlemeler."
+        },
+        {
+          "name": "Çevre ve Sürdürülebilir Kalkınma",
+          "description": "Sürdürülebilir kalkınma prensipleri, çevresel etkilerin yönetimi ve sürdürülebilirlik."
+        },
+        {
+          "name": "Ekolojik Sistemler",
+          "description": "Ekolojik sistemlerin yapısı, fonksiyonları ve insan etkileri."
+        },
+        {
+          "name": "Çevre Mühendisliğinde Modelleme",
+          "description": "Çevre mühendisliği problemlerinin modellenmesi ve simülasyonu."
+        },
+        {
+          "name": "Çevre Mühendisliğinde Mekanik Süreçler",
+          "description": "Mekanik süreçlerin çevre mühendisliğindeki uygulamaları, su arıtma ve hava temizleme."
+        },
+        {
+          "name": "Yeşil Teknolojiler",
+          "description": "Çevre dostu teknolojiler, yenilenebilir enerji kaynakları ve sürdürülebilir tasarım."
+        }
+      ]
+    },
+    {
+      "name": "Müzik",
+      "courses": [
+        {
+          "name": "Müzik Teorisi ve Solfej",
+          "description": "Müzik teorisinin temelleri, nota okuma, ritim ve melodi çalışmaları."
+        },
+        {
+          "name": "Enstrüman Dersleri",
+          "description": "Farklı enstrümanlarda performans teknikleri ve bireysel çalışma."
+        },
+        {
+          "name": "Müzik Tarihi",
+          "description": "Müziğin tarihsel gelişimi, farklı dönemler ve besteciler."
+        },
+        {
+          "name": "Orkestra Çalışmaları",
+          "description": "Orkestra düzenlemeleri, grup çalışmaları ve performans uygulamaları."
+        },
+        {
+          "name": "Jazz ve Popüler Müzik",
+          "description": "Jazz ve popüler müzik türleri, tarihçesi ve performans teknikleri."
+        },
+        {
+          "name": "Müzik Prodüksiyonu",
+          "description": "Müzik prodüksiyon teknikleri, stüdyo çalışmaları ve kayıt süreçleri."
+        },
+        {
+          "name": "Ses Mühendisliği",
+          "description": "Ses mühendisliği prensipleri, ses sistemleri ve akustik düzenlemeler."
+        },
+        {
+          "name": "Müzik Performansı",
+          "description": "Performans teknikleri, sahne deneyimi ve canlı performans uygulamaları."
+        }
+      ]
+    },
+    {
+      "name": "Psikoloji",
+      "courses": [
+        {
+          "name": "Genel Psikoloji",
+          "description": "Psikolojinin temel kavramları, insan davranışı ve zihinsel süreçlerin incelenmesi."
+        },
+        {
+          "name": "Klinik Psikoloji",
+          "description": "Ruh sağlığı bozukluklarının tanı ve tedavisi, terapi yöntemleri."
+        },
+        {
+          "name": "Sosyal Psikoloji",
+          "description": "Sosyal etkileşimler, grup dinamikleri ve toplumsal davranışlar."
+        },
+        {
+          "name": "Gelişim Psikolojisi",
+          "description": "İnsan gelişimi, çocukluk, ergenlik, yetişkinlik ve yaşlılık dönemleri."
+        },
+        {
+          "name": "Nöropsikoloji",
+          "description": "Beyin fonksiyonları ve davranış arasındaki ilişki, nörolojik bozukluklar."
+        },
+        {
+          "name": "Psikoterapi Yaklaşımları",
+          "description": "Farklı psikoterapi yöntemleri, terapi teknikleri ve uygulamaları."
+        },
+        {
+          "name": "Psikolojik Testler ve Değerlendirme",
+          "description": "Psikolojik testlerin geliştirilmesi, uygulanması ve değerlendirilmesi."
+        },
+        {
+          "name": "Bilişsel Davranışçı Terapi",
+          "description": "Bilişsel davranışçı terapi prensipleri, uygulamaları ve teknikleri."
+        }
+      ]
+    },
+    {
+      "name": "Makine Mühendisliği",
+      "courses": [
+        {
+          "name": "Makine Elemanları",
+          "description": "Makine elemanlarının tasarımı, analizi ve üretimi."
+        },
+        {
+          "name": "Isı Transferi",
+          "description": "Isı transferinin temel prensipleri, iletim, konveksiyon ve radyasyon."
+        },
+        {
+          "name": "Makine Dinamiği",
+          "description": "Makine dinamiği, titreşimler ve sistemlerin dinamik analizi."
+        },
+        {
+          "name": "Kontrol Sistemleri",
+          "description": "Kontrol teorisi, kontrol sistemlerinin analizi ve tasarımı."
+        },
+        {
+          "name": "Endüstriyel Otomasyon",
+          "description": "Endüstriyel otomasyon sistemleri, PLC programlama ve robotik."
+        },
+        {
+          "name": "Hesaplamalı Akışkanlar Dinamiği",
+          "description": "Akışkanlar dinamiğinin hesaplamalı yöntemlerle analizi ve simülasyonu."
+        },
+        {
+          "name": "Makine Mühendisliğinde Modelleme",
+          "description": "Makine mühendisliği problemlerinin modellenmesi ve simülasyonu."
+        },
+        {
+          "name": "Üretim Mühendisliği",
+          "description": "Üretim süreçleri, imalat teknikleri ve üretim planlaması."
+        }
+      ]
+    },
+    {
+      "name": "Biyoloji",
+      "courses": [
+        {
+          "name": "Genel Biyoloji",
+          "description": "Biyolojinin temel prensipleri, canlıların yapısı ve fonksiyonları."
+        },
+        {
+          "name": "Moleküler Biyoloji",
+          "description": "Moleküler biyoloji kavramları, DNA, RNA ve protein biyosentezi."
+        },
+        {
+          "name": "Hücre Biyolojisi",
+          "description": "Hücre yapısı, fonksiyonları ve hücresel süreçlerin incelenmesi."
+        },
+        {
+          "name": "Ekoloji",
+          "description": "Ekosistemler, çevresel faktörler ve organizma-çevre ilişkileri."
+        },
+        {
+          "name": "Mikrobiyoloji",
+          "description": "Mikroorganizmaların yapısı, fonksiyonları ve patojen etkileri."
+        },
+        {
+          "name": "Evrimsel Biyoloji",
+          "description": "Evrim teorisi, evrimsel süreçler ve biyolojik çeşitlilik."
+        },
+        {
+          "name": "Biyoistatistik",
+          "description": "Biyolojik verilerin istatistiksel analizi ve biyometri yöntemleri."
+        },
+        {
+          "name": "Biyoteknoloji Uygulamaları",
+          "description": "Biyoteknolojinin temel prensipleri, genetik mühendisliği ve biyoteknolojik uygulamalar."
+        }
+      ]
+    },
+    {
+      "name": "Edebiyat",
+      "courses": [
+        {
+          "name": "Edebiyat Tarihi",
+          "description": "Edebiyat tarihinin dönemleri, önemli yazarlar ve eserler."
+        },
+        {
+          "name": "Roman ve Hikaye Analizi",
+          "description": "Roman ve hikaye türlerinin analizi, anlatı teknikleri ve tematik inceleme."
+        },
+        {
+          "name": "Şiir ve Drama Çözümlemeleri",
+          "description": "Şiir ve dramatik eserlerin analizi, biçimsel ve tematik çözümlemeler."
+        },
+        {
+          "name": "Eleştirel Kuram ve Edebiyat",
+          "description": "Eleştirel kuramların edebiyata uygulanması, edebi eleştirinin temel yaklaşımları."
+        },
+        {
+          "name": "Dilbilim",
+          "description": "Dilbilim teorileri, dilin yapısı ve işleyişi, dil ve kültür ilişkisi."
+        },
+        {
+          "name": "Kültürel Eleştiri",
+          "description": "Kültürel eleştiri teorileri, edebiyat ve kültürel çalışmalar."
+        },
+        {
+          "name": "Karşılaştırmalı Edebiyat",
+          "description": "Farklı edebiyatların karşılaştırmalı analizi, temalar ve anlatı biçimleri."
+        },
+        {
+          "name": "Postmodern Edebiyat",
+          "description": "Postmodern edebiyatın özellikleri, temaları ve yazarları."
+        }
+      ]
+    },
+    {
+      "name": "Hukuk",
+      "courses": [
+        {
+          "name": "Anayasa Hukuku",
+          "description": "Anayasa hukuku kavramları, anayasa yapımı ve anayasa mahkemeleri."
+        },
+        {
+          "name": "Medeni Hukuk",
+          "description": "Medeni hukukun temel prensipleri, kişiler hukuku, aile hukuku ve miras hukuku."
+        },
+        {
+          "name": "Ceza Hukuku",
+          "description": "Ceza hukuku kavramları, suç ve ceza teorileri, ceza muhakemesi."
+        },
+        {
+          "name": "İdare Hukuku",
+          "description": "İdare hukukunun temel kavramları, idari işlemler ve idari yargı."
+        },
+        {
+          "name": "İcra ve İflas Hukuku",
+          "description": "İcra ve iflas hukukunun temel prensipleri, icra takibi ve iflas prosedürleri."
+        },
+        {
+          "name": "Uluslararası Hukuk",
+          "description": "Uluslararası hukukun temel prensipleri, devletler hukuku ve uluslararası örgütler."
+        },
+        {
+          "name": "Hukuk Felsefesi",
+          "description": "Hukuk felsefesinin temel kavramları, hukuk teorileri ve hukuk düşüncesi."
+        },
+        {
+          "name": "Hukuk Sosyolojisi",
+          "description": "Hukuk sosyolojisinin temel kavramları, hukuk ve toplum ilişkisi."
+        }
+      ]
+    },
+    {
+      "name": "Tiyatro",
+      "courses": [
+        {
+          "name": "Oyunculuk Teknikleri",
+          "description": "Oyunculuk teknikleri, sahne çalışmaları ve performans uygulamaları."
+        },
+        {
+          "name": "Tiyatro Tarihi",
+          "description": "Tiyatro tarihinin dönemleri, önemli oyun yazarları ve eserler."
+        },
+        {
+          "name": "Dramatik Yapıtlar",
+          "description": "Dramatik yapıtların analizi, biçimsel ve tematik çözümlemeler."
+        },
+        {
+          "name": "Sahne Yönetimi",
+          "description": "Sahne yönetimi teknikleri, prodüksiyon süreçleri ve sahne düzenlemeleri."
+        },
+        {
+          "name": "Kostüm Tasarımı",
+          "description": "Kostüm tasarımının temel prensipleri, tarihsel ve çağdaş kostüm tasarımı."
+        },
+        {
+          "name": "Dekor Tasarımı",
+          "description": "Dekor tasarımının temel prensipleri, sahne dekorasyon teknikleri."
+        },
+        {
+          "name": "Gösteri Sanatları",
+          "description": "Gösteri sanatlarının tarihçesi, performans türleri ve uygulamaları."
+        },
+        {
+          "name": "Tiyatroda Senaryo Yazarlığı",
+          "description": "Senaryo yazım teknikleri, dramatik yapı oluşturma ve senaryo analizleri."
+        }
+      ]
+    }
+  ]
+}
